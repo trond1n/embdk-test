@@ -1,0 +1,7 @@
+.header{
+    grid-area: 1 / 1 / 2 / 5;
+    margin: 0;
+}
+.header__title{
+    margin: 0;
+}

@@ -1,0 +1,29 @@
+.item__header {
+    display: flex;
+    align-items: center;
+}
+
+.item__arrow {
+    margin-left: 20px;
+    font-size: 24px;
+    color: #2962FF;
+
+}
+
+.item__body {
+    padding: 30px 0;
+    max-width: 1399px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    
+}
+
+.item__value {
+    color: #2962FF;
+}
+
+.item {
+    
+    margin: 20px 0;
+    border-bottom: 1px solid #A5A5A5;
+}
